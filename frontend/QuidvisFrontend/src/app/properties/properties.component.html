@@ -1,0 +1,42 @@
+<div class="container mt-5">
+    <!-- Update to use selectedClientId -->
+    <h2 *ngIf="selectedClientId">Properties for Client {{ selectedClientId }}</h2>
+    <h2 *ngIf="!selectedClientId">All Properties</h2>
+  
+    <!-- Client Filter Dropdown -->
+    <div class="form-group">
+        <label for="clientFilter">Filter by Client:</label>
+        <select class="form-control" id="clientFilter" (change)="onClientFilterChange($event)">
+          <option value="">All Clients</option>
+          <option *ngFor="let client of clients" [value]="client.clientId" [selected]="client.clientId === selectedClientId">
+            {{ client.name }}
+          </option>
+        </select>
+      </div>
+      
+  
+    <!-- Properties Table -->
+    <table class="table table-striped table-bordered mt-4">
+      <thead>
+        <tr>
+          <th>Property ID</th>
+          <th>Name</th>
+          <th>Code</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let property of properties">
+          <td>{{ property.propertyId }}</td>
+          <td>{{ property.name }}</td>
+          <td>{{ property.code }}</td>
+          <td>
+            <button class="btn btn-primary" [routerLink]="['/audits', property.propertyId]">
+              View Audits
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  

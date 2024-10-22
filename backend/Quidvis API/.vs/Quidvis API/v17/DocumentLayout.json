@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|c:\\users\\callum\\source\\repos\\quidvis api\\quidvis api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|solutionrelative:quidvis api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|c:\\users\\callum\\source\\repos\\quidvis api\\quidvis api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|solutionrelative:quidvis api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|c:\\users\\callum\\source\\repos\\quidvis api\\quidvis api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|solutionrelative:quidvis api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|c:\\users\\callum\\source\\repos\\quidvis api\\quidvis api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|solutionrelative:quidvis api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|c:\\users\\callum\\source\\repos\\quidvis api\\quidvis api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|solutionrelative:quidvis api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|c:\\users\\callum\\source\\repos\\quidvis api\\quidvis api\\repository\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|solutionrelative:quidvis api\\repository\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|c:\\users\\callum\\source\\repos\\quidvis api\\quidvis api\\repository\\propertiesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|solutionrelative:quidvis api\\repository\\propertiesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|c:\\users\\callum\\source\\repos\\quidvis api\\quidvis api\\controllers\\propertiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|solutionrelative:quidvis api\\controllers\\propertiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|c:\\users\\callum\\source\\repos\\quidvis api\\quidvis api\\controllers\\auditscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|solutionrelative:quidvis api\\controllers\\auditscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|c:\\users\\callum\\source\\repos\\quidvis api\\quidvis api\\repository\\auditsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|solutionrelative:quidvis api\\repository\\auditsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|c:\\users\\callum\\source\\repos\\quidvis api\\quidvis api\\models\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|solutionrelative:quidvis api\\models\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|c:\\users\\callum\\source\\repos\\quidvis api\\quidvis api\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|solutionrelative:quidvis api\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|c:\\users\\callum\\source\\repos\\quidvis api\\quidvis api\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E685DAA-B184-4168-9F52-B7A5D3919A83}|Quidvis API\\Quidvis API.csproj|solutionrelative:quidvis api\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PropertiesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\Repository\\PropertiesRepository.cs",
+              "RelativeDocumentMoniker": "Quidvis API\\Repository\\PropertiesRepository.cs",
+              "ToolTip": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\Repository\\PropertiesRepository.cs",
+              "RelativeToolTip": "Quidvis API\\Repository\\PropertiesRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:35:42.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PropertiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\Controllers\\PropertiesController.cs",
+              "RelativeDocumentMoniker": "Quidvis API\\Controllers\\PropertiesController.cs",
+              "ToolTip": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\Controllers\\PropertiesController.cs",
+              "RelativeToolTip": "Quidvis API\\Controllers\\PropertiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:34:26.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Quidvis API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Quidvis API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T01:20:27.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Quidvis API\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Quidvis API\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T00:27:33.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\Repository\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Quidvis API\\Repository\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\Repository\\ClientRepository.cs",
+              "RelativeToolTip": "Quidvis API\\Repository\\ClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T00:17:01.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Audit.cs",
+              "DocumentMoniker": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\Models\\Audit.cs",
+              "RelativeDocumentMoniker": "Quidvis API\\Models\\Audit.cs",
+              "ToolTip": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\Models\\Audit.cs",
+              "RelativeToolTip": "Quidvis API\\Models\\Audit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T00:14:59.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\Program.cs",
+              "RelativeDocumentMoniker": "Quidvis API\\Program.cs",
+              "ToolTip": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\Program.cs",
+              "RelativeToolTip": "Quidvis API\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:16:20.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\appsettings.json",
+              "RelativeDocumentMoniker": "Quidvis API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\appsettings.json",
+              "RelativeToolTip": "Quidvis API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T00:13:27.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Quidvis API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\appsettings.Development.json",
+              "RelativeToolTip": "Quidvis API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T01:53:40.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuditsController.cs",
+              "DocumentMoniker": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\Controllers\\AuditsController.cs",
+              "RelativeDocumentMoniker": "Quidvis API\\Controllers\\AuditsController.cs",
+              "ToolTip": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\Controllers\\AuditsController.cs",
+              "RelativeToolTip": "Quidvis API\\Controllers\\AuditsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:37:45.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuditsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\Repository\\AuditsRepository.cs",
+              "RelativeDocumentMoniker": "Quidvis API\\Repository\\AuditsRepository.cs",
+              "ToolTip": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\Repository\\AuditsRepository.cs",
+              "RelativeToolTip": "Quidvis API\\Repository\\AuditsRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:38:05.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "Quidvis API\\Models\\Property.cs",
+              "ToolTip": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\Models\\Property.cs",
+              "RelativeToolTip": "Quidvis API\\Models\\Property.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T00:14:54.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Quidvis API\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Callum\\source\\repos\\Quidvis API\\Quidvis API\\Models\\Client.cs",
+              "RelativeToolTip": "Quidvis API\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T00:14:49.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+# Node.js / Angular
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+
+# .NET Core / C# API
+bin/
+obj/
+.env
+
+# Other Common Files
+.vscode/
+.idea/

@@ -1,0 +1,24 @@
+<div class="container mt-5">
+    <h2>Clients</h2>
+    <table class="table table-striped table-bordered">
+      <thead class="thead-dark">
+        <tr>
+          <th>Client ID</th>
+          <th>Name</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let client of clients">
+          <td>{{ client.clientId }}</td>
+          <td>{{ client.name }}</td>
+          <td>
+            <button class="btn btn-primary" [routerLink]="['/properties', client.clientId]">
+              View Properties
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  
